@@ -20,3 +20,7 @@ Software for Arduino Uno-based remote controlled car together with a Arduino Nan
 ### Software structure
 The software is splitted into Abstraction Layers so the responsability of each layer are very limited and will make easier the growth and maintenance of the project in a Architectural point of view. Using a objected-oriented language such as C++ accepted by Arduino, makes the implementation closer to this approach.
 
+
+### Final Car Build
+<img src='https://ifh.cc/g/O12cqY.jpg' width="50%" height="40%">
+<img src='https://ifh.cc/g/vDOkHo.jpg' width="50%" height="40%">
