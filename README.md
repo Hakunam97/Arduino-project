@@ -1,19 +1,23 @@
-Arduino-RC car-project
+Smart Arduino-RC car-project
 ================
-Remote Controlled Car build with Arduino Uno and communication via Bluetooth and self-driving RC car
+Remote Controlled Car build with Arduino Uno and communication via Bluetooth and Self-Driving RC car
 ---------------------------------------------
 ---
-Software for Arduino Uno-based remote controlled car together with a Arduino Nano-based remote controlling and intercommunication via Bluetooth modules using C++   
+1. Software for Arduino Uno-based remote controlled car together with a Arduino Nano-based remote controlling and intercommunication via Bluetooth modules using C++   
+2. Autonomous mode using Ultrasonic sensor for obstacle avoidance
 
 
 ### Hardware components used for Remote Controlled Car   
 * Arduino **Uno** or compatible
 * Battery or powerbank [ 5V, +1450 mAh ] to power-up Arduino and its components (bluetooth module and speaker)
 * Battery or powerbank [ 12V, +4000 mAh ] to power-up motors
+* HC-SR04 Ultrasonic Module
 * Bluetooth HC-06 slave module
-* L298N Driver to control motors
+* Android Smartphone with Bluetooth
+* Motor Drive Controller Module L298N
 * Buzzer / piezo speaker
 * 4 DC motors + wheels
+* Sensor Shield
 * Optional dip switch to turn on/off the motor
 * Car structure
 
@@ -24,3 +28,6 @@ The software is splitted into Abstraction Layers so the responsability of each l
 ### Final Car Build
 <img src='https://ifh.cc/g/O12cqY.jpg' width="50%" height="40%">
 <img src='https://ifh.cc/g/vDOkHo.jpg' width="50%" height="40%">
+
+   
+### Test and Driving
