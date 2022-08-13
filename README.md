@@ -37,7 +37,7 @@ The software is splitted into Abstraction Layers so the responsability of each l
 
 [![Video Label](http://img.youtube.com/vi/3k8P_rJN_Zc/0.jpg)](https://youtu.be/3k8P_rJN_Zc)
 
-2. **Submotor_test**
+2. **Sub_motor_test**
 
 [![Video Label](http://img.youtube.com/vi/WtocgYKOh2A/0.jpg)](https://youtu.be/WtocgYKOh2A)
 
