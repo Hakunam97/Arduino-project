@@ -25,10 +25,26 @@ Remote Controlled Car build with Arduino Uno and communication via Bluetooth and
 The software is splitted into Abstraction Layers so the responsability of each layer are very limited and will make easier the growth and maintenance of the project in a Architectural point of view. Using a objected-oriented language such as C++ accepted by Arduino, makes the implementation closer to this approach.
 
 
+
+
 ### Final Car Build
 <img src='https://ifh.cc/g/O12cqY.jpg' width="50%" height="40%">
 <img src='https://ifh.cc/g/vDOkHo.jpg' width="50%" height="40%">
 
-   
-### Test and Driving
+---   
+### Test and Driving (click the images below)
+1. **Motor_test**
+
 [![Video Label](http://img.youtube.com/vi/3k8P_rJN_Zc/0.jpg)](https://youtu.be/3k8P_rJN_Zc)
+
+2. **Submotor_test**
+
+[![Video Label](http://img.youtube.com/vi/WtocgYKOh2A/0.jpg)](https://youtu.be/WtocgYKOh2A)
+
+3. **Remote Control**
+
+[![Video Label](http://img.youtube.com/vi/K7encdYvTJI/0.jpg)](https://youtu.be/K7encdYvTJI)
+
+4. **Self-Driving and Ultrasonic sensor**
+
+[![Video Label](http://img.youtube.com/vi/biwDIe3V3Ak/0.jpg)](https://youtu.be/biwDIe3V3Ak)
