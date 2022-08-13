@@ -32,19 +32,23 @@ The software is splitted into Abstraction Layers so the responsability of each l
 <img src='https://ifh.cc/g/vDOkHo.jpg' width="50%" height="40%">
 
 ---   
-### Test and Driving (click the images below)
-1. **Motor_test**
+### Test and Driving
+1. **Motor_test**  
+(click the image below)
 
 [![Video Label](http://img.youtube.com/vi/3k8P_rJN_Zc/0.jpg)](https://youtu.be/3k8P_rJN_Zc)
 
-2. **Sub_motor_test**
+2. **Sub_motor_test**  
+(click the image below)
 
 [![Video Label](http://img.youtube.com/vi/WtocgYKOh2A/0.jpg)](https://youtu.be/WtocgYKOh2A)
 
-3. **Remote Control**
+3. **Remote Control**  
+(click the image below)
 
 [![Video Label](http://img.youtube.com/vi/K7encdYvTJI/0.jpg)](https://youtu.be/K7encdYvTJI)
 
-4. **Self-Driving and Ultrasonic sensor**
+4. **Self-Driving and Ultrasonic sensor**  
+(click the image below)
 
 [![Video Label](http://img.youtube.com/vi/biwDIe3V3Ak/0.jpg)](https://youtu.be/biwDIe3V3Ak)
